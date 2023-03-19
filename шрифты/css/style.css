@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "MyFontTest";
+    src: url(../fonts/pobeda-regular1.ttf);
+}
+
+* {
+    font-family: "MyFontTest";
+}
+
+p {
+    font-weight: 100;
+    font-size: 12px;
+    font-style: italic;
+}
+
+h1 {
+    font-weight: bolder;
+    font-size: 50px;
+}
