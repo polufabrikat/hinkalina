@@ -1,0 +1,143 @@
+a{
+    text-decoration: none;
+}
+body{
+    margin: 0;
+
+}
+.container{
+    max-width: 1667px;
+    margin: 0 auto;
+}
+.header_line{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 24px;
+}
+.nav_list{
+    margin-right: 49px;
+    font-family: 'Pangolin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #886788;
+}
+
+.media_list{
+    margin-right: 11px;
+}
+
+.bg{
+    background-image: url(../img/scale_1200\ 1.jpg);
+    min-height: 1011px;
+    background-size: cover;
+    background-position: top center;
+}
+
+.bg_list{
+    font-family: 'Pangolin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 128px;
+    line-height: 160px;
+    text-align: center;
+    color: aliceblue;
+    margin: 0;
+    padding-top: 320px;
+}
+
+.kat{
+    font-family: 'Pangolin';
+    font-size: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 121px;
+    text-align: center;
+    color: rgb(199, 131, 194);
+    margin: 0;
+}
+
+.katalog_n{
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+.f_line{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.name{
+    font-family: 'Pangolin';
+    font-size: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    color: rgb(0, 0, 0);
+    margin: 0;
+    padding-top: 22px;
+}
+
+.info{
+    font-family: 'Pangolin';
+    font-size: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: rgb(211, 146, 197);
+    margin: 0;
+    padding-bottom: 37px;
+}
+
+.down_cart{
+    display: flex;
+    align-items: center;
+}
+
+.cena{
+    font-family: 'Pangolin';
+    font-size: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 40px;
+    color: rgb(0, 0, 0);
+    margin: 0;
+    padding-left: 242px;
+}
+
+.btn{
+    font-family: 'Pangolin';
+    font-size: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 35px;
+    color: rgb(255, 255, 255);
+    margin: 0;
+    margin: 0;
+    background: #886788;
+    border-radius: 29px;
+}
+
+.dos{
+    font-family: 'Pangolin';
+    font-size: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 121px;
+    text-align: center;
+    color: rgb(199, 131, 194);
+    margin: 0;
+}
+
+
+.dostavka_n{
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+.f_line2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
