@@ -1,0 +1,110 @@
+a{
+   text-decoration: none; 
+}
+body{
+    margin: 0;
+}
+.container{
+    max-width: 1667px;
+    margin: 0 auto;
+}
+.header_line{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 24px;
+}
+.nav_list{
+    margin-right: 49px;
+    font-family:  'Pangolin', cursive;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #886788;
+}
+.media_list{
+    margin-right: 11px;
+}
+.bg{
+    background-image: url(../img/fon.jpg);
+    min-height: 1011px;
+    background-size: cover;
+    background-position: top center;
+}
+.bg_list{
+    font-family: 'Pangolin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 128px;
+    line-height: 160px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin: 0;
+    padding-top: 320px;
+
+}
+.kat{
+    font-family: 'Amatic SC';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 121px;
+    text-align: center;
+    color: rgb(177, 149, 203);
+    margin: 0;
+}
+.katalog_n{
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+.f_line{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.name{
+    font-family: 'Pangolin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    color: #000;
+    margin: 0;
+    padding-top: 22px;
+
+}
+.info{
+    font-family: 'Pangolin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #9b9b9b;
+    margin: 0;
+    padding-bottom: 37px;
+}
+.down_cart{
+    display: flex;
+    align-items: center;
+}
+.cena{
+    font-family: 'Pangolin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 40px;
+    color: #000000;
+    margin: 0;
+    padding-left: 242px;
+}
+.bth{
+    font-family: 'Pangolin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 35px;
+    color: #f1e8e8;
+    margin: 0;
+    margin: 0;
+    padding-top: 29px;
+}
